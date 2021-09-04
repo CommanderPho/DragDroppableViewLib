@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  DragView.swift
 //  
 //
 //  Created by Pho Hale on 1/19/21.
@@ -13,7 +13,7 @@ import Cocoa
 
 // MARK: -
 // MARK: - class DragView: NSView
-// Description: Allows dragging and dropping a file
+/// Description: Allows dragging and dropping a file
 open class DragView: NSView
 {
 
